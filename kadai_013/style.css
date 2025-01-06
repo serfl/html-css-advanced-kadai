@@ -203,20 +203,20 @@ PC用のスタイル
   display: block;
   }
   
-  #nav-sp a {
+  #nav-sp a:link {
   color: #ffffff;
   }
   
-  #nav-sp a {
+  #nav-sp a:visited {
   color: #ffffff;
   }
   
-  #nav-sp a {
+  #nav-sp a:hover {
   color: #ffffff;
   text-decoration: underline;
   }
   
-  #nav-sp a {
+  #nav-sp a:active {
   color: #ffffff;
   }
   
